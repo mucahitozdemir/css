@@ -1,0 +1,44 @@
+header{
+    text-transform:uppercase ;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.yanyana{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: red;
+    font-size: 30px;
+}
+h2{
+    color: blue;
+    font-size: 18px;
+}
+h3{
+    color: rgb(134, 134, 5);
+}
+.bebsim{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+article p a{
+    text-decoration: none;
+    color: black;
+}
+.kariskom {
+    display: flex;
+    justify-content: center;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.aa{
+    display: block;
+    justify-content: center;
+}
